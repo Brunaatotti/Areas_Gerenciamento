@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1780077476755,
+    "name": "Falta de açúcar no escritório",
+    "prob": 4,
+    "impact": 1,
+    "response": "Aceitar. item de baixo impacto operacional e fácil reposição."
+  },
+  {
+    "id": 1780077523298,
+    "name": "Tempestade danifica roteador de internet",
+    "prob": 4,
+    "impact": 4,
+    "response": "contratar link redundante e instalar proteção elétrica."
+  },
+  {
+    "id": 1780077588707,
+    "name": "Saída do gerente de projetos",
+    "prob": 3,
+    "impact": 5,
+    "response": "documentar processos e compartilhar conhecimento com a equipe."
+  },
+  {
+    "id": 1780077653578,
+    "name": "Redução de orçamento do cliente",
+    "prob": 3,
+    "impact": 5,
+    "response": "renegociar escopo e revisar cláusulas contratuais."
+  },
+  {
+    "id": 1780077691938,
+    "name": "Bug crítico em produção",
+    "prob": 4,
+    "impact": 5,
+    "response": "implementar testes automatizados, monitoramento e plantão técnico."
+  },
+  {
+    "id": 1780077744683,
+    "name": "Atraso na entrega do servidor",
+    "prob": 3,
+    "impact": 2,
+    "response": "acompanhar fornecedor e utilizar a folga do cronograma."
+  },
+  {
+    "id": 1780077778451,
+    "name": "Erro de desenvolvedor júnior",
+    "prob": 4,
+    "impact": 2,
+    "response": "aplicar revisão de código e acompanhamento técnico."
+  },
+  {
+    "id": 1780077812914,
+    "name": "Adequação à nova legislação",
+    "prob": 2,
+    "impact": 2,
+    "response": "realizar pequenos ajustes no sistema conforme exigência legal."
+  },
+  {
+    "id": 1780077846491,
+    "name": "Incêndio no data center principal",
+    "prob": 1,
+    "impact": 5,
+    "response": "manter disaster recovery e backup em região remota."
+  },
+  {
+    "id": 1780078273659,
+    "name": "Concorrente lança produto gratuito",
+    "prob": 4,
+    "impact": 5,
+    "response": "Diferenciar o produto através de funcionalidades exclusivas, melhor suporte ao cliente e experiência premium. Investir em fidelização dos usuários atuais, fortalecer a marca e criar planos promocionais ou versão gratuita limitada para manter competitividade no mercado."
+  }
+]
